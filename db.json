@@ -1,0 +1,114 @@
+{
+	"rarities": [
+		{ "id": "common", "name": "Common", "probability": 0.4 },
+		{ "id": "uncommon", "name": "Uncommon", "probability": 0.3 },
+		{ "id": "rare", "name": "Rare", "probability": 0.2 },
+		{ "id": "epic", "name": "Epic", "probability": 0.08 },
+		{ "id": "legendary", "name": "Legendary", "probability": 0.02 }
+	],
+	"weaponStats": [
+		{
+			"id": "common",
+			"cooldown": [1, 1],
+			"hpModif": [1, 1],
+			"strModif": [1, 1],
+			"defModif": [1, 1],
+			"spdModif": [1, 1],
+			"atk": [10, 10],
+			"reach": [1, 4]
+		},
+		{
+			"id": "uncommon",
+			"cooldown": [2, 2],
+			"hpModif": [2, 2],
+			"strModif": [2, 2],
+			"defModif": [2, 2],
+			"spdModif": [2, 2],
+			"atk": [20, 20],
+			"reach": [1, 4]
+		},
+		{
+			"id": "rare",
+			"cooldown": [3, 3],
+			"hpModif": [3, 3],
+			"strModif": [3, 3],
+			"defModif": [3, 3],
+			"spdModif": [3, 3],
+			"atk": [30, 30],
+			"reach": [1, 4]
+		},
+		{
+			"id": "epic",
+			"cooldown": [4, 4],
+			"hpModif": [4, 4],
+			"strModif": [4, 4],
+			"defModif": [4, 4],
+			"spdModif": [4, 4],
+			"atk": [40, 40],
+			"reach": [1, 4]
+		},
+		{
+			"id": "legendary",
+			"cooldown": [5, 5],
+			"hpModif": [5, 5],
+			"strModif": [5, 5],
+			"defModif": [5, 5],
+			"spdModif": [5, 5],
+			"atk": [50, 50],
+			"reach": [1, 4]
+		}
+	],
+
+	"shieldStats": [
+		{
+			"id": "common",
+			"cooldown": [1, 1],
+			"hpModif": [1, 1],
+			"strModif": [1, 1],
+			"defModif": [1, 1],
+			"spdModif": [1, 1],
+			"def": [5, 10],
+			"dur": [5, 20]
+		},
+		{
+			"id": "uncommon",
+			"cooldown": [2, 2],
+			"hpModif": [2, 2],
+			"strModif": [2, 2],
+			"defModif": [2, 2],
+			"spdModif": [2, 2],
+			"def": [10, 20],
+			"dur": [5, 20]
+		},
+		{
+			"id": "rare",
+			"cooldown": [3, 3],
+			"hpModif": [3, 3],
+			"strModif": [3, 3],
+			"defModif": [3, 3],
+			"spdModif": [3, 3],
+			"def": [15, 30],
+			"dur": [5, 20]
+		},
+		{
+			"id": "epic",
+			"cooldown": [4, 4],
+			"hpModif": [4, 4],
+			"strModif": [4, 4],
+			"defModif": [4, 4],
+			"spdModif": [4, 4],
+			"def": [20, 40],
+			"dur": [5, 20]
+		},
+		{
+			"id": "legendary",
+			"cooldown": [5, 5],
+			"hpModif": [5, 5],
+			"strModif": [5, 5],
+			"defModif": [5, 5],
+			"spdModif": [5, 5],
+			"def": [25, 50],
+			"dur": [5, 20]
+		}
+	]
+}
