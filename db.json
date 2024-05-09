@@ -118,6 +118,8 @@
 			"uncommon": ["Wooden"],
         		"rare": [],
         		"epic": [],
+			"legendary": ["Legendary", "Mighty", "Godly"]
+		}
 	]
 			
 	"suffixes": [
