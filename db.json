@@ -114,8 +114,11 @@
 	
 	"prefixes": [
 		{
-   			"weapon": ["Crappy", "Wooden"],
-   			"shield": ["Crappy", "Wooden"]
+   			"common": ["Crappy"],
+			"uncommon": ["Wooden"],
+			"rare": [],
+			"epic": [],
+   			"legendary": ["Legendary", "Mighty", "Godly"]
 		  },
 	]
  	
