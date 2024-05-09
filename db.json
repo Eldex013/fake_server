@@ -111,10 +111,15 @@
 			"dur": [5, 20]
 		}
 	]
+	
 	"prefixes": [
     		{
-           "common": ["Crappy"],
+        		"common": ["Crappy"],
+			"uncommon": ["Wooden"],
+        		"rare": [],
+        		"epic": [],
 	]
+			
 	"suffixes": [
    		{
          		"weapon": ["of Destruction", "of Power", "of Annihilation"],
