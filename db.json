@@ -112,20 +112,5 @@
 		}
 	]
 	
-	"prefixes": [
-		{
-   			"common": ["Crappy"],
-			"uncommon": ["Wooden"],
-			"rare": [],
-			"epic": [],
-   			"legendary": ["Legendary", "Mighty", "Godly"]
-		  },
-	]
- 	
-	"suffixes": [
-		{
-   			"weapon": ["of Destruction", "of Power", "of Annihilation"],
-   			"shield": ["of Protection", "of Fortitude", "of Warding"]
-  		}
-	]	
+	
 }
