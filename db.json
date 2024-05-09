@@ -111,4 +111,18 @@
 			"dur": [5, 20]
 		}
 	]
+	
+	"prefixes": [
+		{
+   			"weapon": ["Crappy", "Wooden"],
+   			"shield": ["Crappy", "Wooden"]
+		  },
+	]
+ 	
+	"suffixes": [
+		{
+   			"weapon": ["of Destruction", "of Power", "of Annihilation"],
+   			"shield": ["of Protection", "of Fortitude", "of Warding"]
+  		}
+	]	
 }
