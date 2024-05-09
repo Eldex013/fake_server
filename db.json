@@ -111,11 +111,14 @@
 			"dur": [5, 20]
 		}
 	]
-	
+	"prefixes": [
+    		{
+           "common": ["Crappy"],
+	]
 	"suffixes": [
-    {
-           "weapon": ["of Destruction", "of Power", "of Annihilation"],
-           "shield": ["of Protection", "of Fortitude", "of Warding"]
-      }
-]	
+   		{
+         		"weapon": ["of Destruction", "of Power", "of Annihilation"],
+          		"shield": ["of Protection", "of Fortitude", "of Warding"]
+    		}
+	]	
 }
